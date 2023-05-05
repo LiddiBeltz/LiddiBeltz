@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="200"/>
+  <img src="https://kartinkin.net/uploads/posts/2022-12/1670615122_2-kartinkin-net-p-programmist-kartinka-dlya-detei-pinterest-2.png" width="200"/>
 </div> 
 
 ### :woman_technologist: About Me : I'm working as IT-specialist for 8 years.

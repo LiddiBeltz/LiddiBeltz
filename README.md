@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://kartinkin.net/uploads/posts/2022-12/1670615122_2-kartinkin-net-p-programmist-kartinka-dlya-detei-pinterest-2.png" width="200"/>
 </div> 
 
-### :woman_technologist: About Me : I live in Moscow. I'm working as IT-specialist for 8 years.
+### :woman_technologist: About Me : 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
